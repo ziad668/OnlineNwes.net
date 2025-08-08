@@ -1,0 +1,113 @@
+body{
+  text-align: center;
+}
+.header{
+  background-color: #2B3689;
+  background-size: 100% 100%;
+  border: 6px solid #2B3689;
+  border-radius: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 1px;
+  margin-right: 1px;
+  position: sticky;
+  top: 2px;
+}
+.sec{
+  background-color: white;
+  background-position: center bottom;
+  background-size: 100px 100px;
+  width: fit-content;
+  padding: 5px;
+  border: 10px solid dodgerblue;
+  border-radius: 40px;
+  text-align: center;
+}
+.linksec{
+    border-width: 5px;
+  border-bottom: 5px solid dodgerblue;
+  border-radius: 40px;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  margin-left: 5px;
+  font-size: 20px;
+  text-transform: uppercase;
+  transition-duration: 2s;
+}
+.linksec:hover{
+  color: #6B0A0A;
+  font-size: 25px;
+}
+.phtot{
+  text-align: center;
+  margin-bottom: 10px;
+}
+.aside{
+  background-color: #BFBFBF;
+  border-top: 10px solid dodgerblue;
+  border-bottom: 10px solid dodgerblue;
+  border-radius: 30px;
+  margin-top: 10%;
+  direction: rtl;
+}
+.link{
+  text-decoration: none;
+  color: black;
+  text-align: center ;
+  
+}
+.link:hover{
+  text-decoration: underline;
+  color: red;
+}
+.imgup{
+  margin-top: 10px;
+  padding: 5px;
+}
+h2{
+  color: #0A4B83;
+  border: 7px solid #0A4B83;
+  border-radius: 35px;
+}
+p{
+  color: #0A4B83;
+  font-size: 13px;
+}
+.divnameworld{
+  margin-top: 5px;
+}
+.footer{
+  background-color: #BFBFBF;
+  border: 5px solid dodgerblue;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  border-radius: 25px;
+}
+.linkfooter{
+  color: white;
+  border-radius: 25px;
+  font-size: 20px;
+  text-decoration: none;
+  direction: ltr;
+  text-align: center;
+  text-transform: capitalize;
+}
+.splink{
+border-bottom: 5px solid dodgerblue;
+width: fit-content;
+  border-radius: 25px;
+  direction: ltr;
+  text-align: center;
+}
+.linkfooter:hover{
+  color: #9A0505;
+}
+ul{
+  list-style-type: none;
+  list-style-image: url("/email (3).png");
+}
+.me{
+  color: #A40F0F;
+  font-size: 20px;
+}
